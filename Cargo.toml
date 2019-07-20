@@ -1,0 +1,11 @@
+[package]
+name = "chesses"
+version = "0.1.0"
+authors = ["Jeremy Banks <_@jeremy.ca>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+chess = "3.1.1"
+shakmaty = "0.15.0"
+rand = "0.7.0"
